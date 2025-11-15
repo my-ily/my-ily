@@ -1,5 +1,6 @@
-# 💫 About Me:
-Passionate web developer focused on creating interactive and <br>visually appealing applications.<br><br>I enjoy coding and building things from scratch:D
+# 🩷 About Me:
+Passionate developer 👾💻 
+focused on creating interactive and <br>visually appealing applications.<br><br>I enjoy coding and building things from scratch:D
 
 
 # 💻 Tech Stack:
@@ -18,4 +19,4 @@ Passionate web developer focused on creating interactive and <br>visually appeal
 ---
 [![](https://visitcount.itsvg.in/api?id=my-ily&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># me
+
